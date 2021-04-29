@@ -1,0 +1,24 @@
+name: "glms_in_r"
+output_dir: "."
+navbar:
+  title: "Generalized Linear Models in R"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Lectures"
+      menu:
+        - text: "Lecture Notes"
+          menu:
+        - text: "Lecture Slides"
+          menu:
+    - text: "Practice"
+      menu:
+    - text: "Completion Requirements"
+    - text: "Materials"
+      menu:
+  right:
+    - text: "Department website"
+      href: https://ksoc.ff.cuni.cz/
+output:
+  html_document:
+    theme: united
